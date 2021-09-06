@@ -1,4 +1,9 @@
 # CanvasPaint
+
+**No longer maintained since I'm not a student anymore. Script might still work though.**
+
+---
+
 Userscript that makes it possible to change the course cover image of any course on the [Canvas LMS](https://www.instructure.com/canvas/) dashboard. GIFs work too!
 
 # Installation
